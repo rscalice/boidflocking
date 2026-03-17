@@ -1,0 +1,3 @@
+[submodule "external/qt5"]
+	path = external/qt5
+	url = https://code.qt.io/qt/qt5.git
