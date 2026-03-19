@@ -3,13 +3,13 @@
 
 #include <QMainWindow>
 
-#include <MyOpenGLWidget.h>
-#include <platforminfodialog.h>
-#include <openclwrapper.h>
 #include <vector>
 
 #include "boid.h"
 #include "boidsim.h"
+#include "MyOpenGLWidget.h"
+#include "platforminfodialog.h"
+#include "openclwrapper.h"
 
 namespace Ui {
 class MainWindow;

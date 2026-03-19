@@ -1,27 +1,37 @@
 cmake_minimum_required(VERSION 3.21)
-project(BoidFlockingQtSuperbuild LANGUAGES CXX)
+project(BoidFlocking)
 
-include(ExternalProject)
+set(Qt6_DIR external/Qt/6.10.2/msvc2022_64/lib/cmake/Qt6)
 
-# Where Qt will be installed after building
-set(QT_INSTALL_DIR ${CMAKE_BINARY_DIR}/qt-install)
+# Find the Qt6 package with required components
+find_package(Qt6 REQUIRED COMPONENTS Core Gui Widgets OpenGL OpenGLWidgets)
+find_package(OpenGL REQUIRED)
 
-# Allow user override from cache or command line
-set(QT_SOURCE_DIR ${CMAKE_SOURCE_DIR}/external/qt5 CACHE PATH "Path to Qt5 source")
+# Set up standard Qt project settings
+qt_standard_project_setup()
 
-ExternalProject_Add(Qt5Project
-    SOURCE_DIR ${QT_SOURCE_DIR}
-    CONFIGURE_COMMAND <SOURCE_DIR>/configure.bat
-        -prefix ${QT_INSTALL_DIR}
-        -opensource -confirm-license
-        -nomake tests -nomake examples
-        -platform win32-msvc
-    BUILD_COMMAND nmake
-    INSTALL_COMMAND nmake install
+file(GLOB APP_SOURCES "app/*.cpp" "app/*.c" "app/*.h" "app/*.ui")
+
+# Add the executable and link to Qt6::Widgets
+add_executable(BoidFlocking ${APP_SOURCES})
+
+target_include_directories(BoidFlocking PUBLIC ${CMAKE_SOURCE_DIR}/external/opencl/src/OpenCL/include/)
+
+target_link_directories(BoidFlocking PRIVATE ${CMAKE_SOURCE_DIR}/external/opencl/src/OpenCL/lib/)
+target_link_libraries(BoidFlocking Qt6::Widgets Qt6::Core Qt6::Gui Qt6::OpenGLWidgets OpenCL  ${OPENGL_LIBRARIES})
+
+# Find the windeployqt executable
+find_program(WINDEPLOYQT_EXECUTABLE NAMES windeployqt6 windeployqt PATHS ${Qt6_BIN_DIR} ENV PATH REQUIRED)
+
+# Add as a post-build event
+add_custom_command(
+    TARGET BoidFlocking POST_BUILD
+    COMMAND ${WINDEPLOYQT_EXECUTABLE}
+    # Pass the path to your executable as an argument
+    ARGS "$<TARGET_FILE:BoidFlocking>"
+    # Optional arguments, e.g., --always-overwrite, --pdb, --release
+    # ARGS --release --always-overwrite
+    # Set the working directory to ensure correct environment
+    WORKING_DIRECTORY "$<TARGET_FILE_DIR:BoidFlocking>"
+    COMMENT "Running windeployqt6.exe on the executable"
 )
-
-# Add the application subdirectory
-add_subdirectory(app)
-
-# Ensure the app builds after Qt
-add_dependencies(app Qt5Project)

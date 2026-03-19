@@ -3,12 +3,13 @@
 
 #include <CL/opencl.hpp>
 
-#include <boid.h>
 
 #include <iostream>
 #include <sstream>
 #include <string>
 #include <vector>
+
+#include "boid.h"
 
 struct params {
 

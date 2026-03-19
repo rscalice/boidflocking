@@ -1,0 +1,2715 @@
+{
+  "components": [
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-tool-balsam",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "Qt-GPL-exception-1.0"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "balsam",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_TOOL"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=balsam#tools/balsam"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-balsam@527cc5b?library_name=balsam&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#tools/balsam",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "application",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-tool-balsamui",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "Qt-GPL-exception-1.0"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "balsamui",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_TOOL"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=balsamui#tools/balsamui"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-balsamui@527cc5b?library_name=balsamui&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#tools/balsamui",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "application",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-tool-instancer",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "Qt-GPL-exception-1.0"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "instancer",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_TOOL"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=instancer#tools/instancer"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-instancer@527cc5b?library_name=instancer&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#tools/instancer",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "application",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-tool-lightmapviewer",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "Qt-GPL-exception-1.0"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "lightmapviewer",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_TOOL"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=lightmapviewer#tools/lightmapviewer"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-lightmapviewer@527cc5b?library_name=lightmapviewer&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#tools/lightmapviewer",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "application",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-tool-materialeditor",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "Qt-GPL-exception-1.0"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "materialeditor",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_TOOL"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=materialeditor#tools/materialeditor"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-materialeditor@527cc5b?library_name=materialeditor&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#tools/materialeditor",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "application",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-tool-meshdebug",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "Qt-GPL-exception-1.0"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "meshdebug",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_TOOL"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=meshdebug#tools/meshdebug"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-meshdebug@527cc5b?library_name=meshdebug&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#tools/meshdebug",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "application",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-tool-shadergen",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "Qt-GPL-exception-1.0"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "shadergen",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_TOOL"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=shadergen#tools/shadergen"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-shadergen@527cc5b?library_name=shadergen&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#tools/shadergen",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "application",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-tool-shapegen",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "Qt-GPL-exception-1.0"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "shapegen",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_TOOL"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=shapegen#tools/shapegen"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-shapegen@527cc5b?library_name=shapegen&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#tools/shapegen",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "application",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-plugin-AssimpImporterPlugin",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "AssimpImporterPlugin",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_PLUGIN"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=AssimpImporterPlugin#src/plugins/assetimporters/assimp"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-AssimpImporterPlugin@527cc5b?library_name=AssimpImporterPlugin&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/plugins/assetimporters/assimp",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-AssimpImporterPlugin-Attribution-assimp",
+      "copyright": "Copyright (c) 2006-2025, assimp team",
+      "cpe": "cpe:2.3:a:assimp:assimp:6.0.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "acknowledgement": "concluded",
+          "expression": "BSD-3-Clause"
+        }
+      ],
+      "name": "AssimpImporterPlugin_Attribution_assimp",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_THIRD_PARTY_SOURCES"
+        },
+        {
+          "name": "qt:sbom:is_qt_3rd_party_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:generic/TheQtCompany/qtquick3d-AssimpImporterPlugin_Attribution_assimp@527cc5b?library_name=AssimpImporterPlugin_Attribution_assimp&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/plugins/assetimporters/assimp"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=AssimpImporterPlugin_Attribution_assimp#src/plugins/assetimporters/assimp"
+        }
+      ],
+      "purl": "pkg:github/assimp/assimp@v6.0.2",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.0.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-bundled-3rdparty-module-BundledEmbree",
+      "copyright": "Copyright 2009-2021 Intel Corporation",
+      "licenses": [
+        {
+          "acknowledgement": "concluded",
+          "expression": "Apache-2.0"
+        }
+      ],
+      "name": "BundledEmbree",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_THIRD_PARTY_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_3rd_party_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:generic/TheQtCompany/qtquick3d-BundledEmbree@527cc5b?library_name=BundledEmbree&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/3rdparty/embree"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=BundledEmbree#src/3rdparty/embree"
+        }
+      ],
+      "purl": "pkg:github/renderkit/embree@%24v%3CVERSION%3E",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "3.13.3"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-bundled-3rdparty-module-BundledOpenXR",
+      "copyright": "Copyright (c) 2017-2025, The Khronos Group Inc.\nCopyright (c) 2017-2019, Valve Corporation\nCopyright (c) 2017-2019, LunarG, Inc.",
+      "licenses": [
+        {
+          "acknowledgement": "concluded",
+          "expression": "Apache-2.0"
+        }
+      ],
+      "name": "BundledOpenXR",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_THIRD_PARTY_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_3rd_party_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:generic/TheQtCompany/qtquick3d-BundledOpenXR@527cc5b?library_name=BundledOpenXR&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/3rdparty/openxr"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=BundledOpenXR#src/3rdparty/openxr"
+        }
+      ],
+      "purl": "pkg:github/khronosgroup/openxr-sdk@release-1.1.49",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "1.1.49"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-BundledOpenXR-Attribution-jnipp",
+      "copyright": "Copyright (c) 2016 Mitchell Dowd",
+      "licenses": [
+        {
+          "acknowledgement": "concluded",
+          "expression": "MIT"
+        }
+      ],
+      "name": "BundledOpenXR_Attribution_jnipp",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_THIRD_PARTY_SOURCES"
+        },
+        {
+          "name": "qt:sbom:is_qt_3rd_party_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:generic/TheQtCompany/qtquick3d-BundledOpenXR_Attribution_jnipp@527cc5b?library_name=BundledOpenXR_Attribution_jnipp&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/3rdparty/openxr"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=BundledOpenXR_Attribution_jnipp#src/3rdparty/openxr"
+        }
+      ],
+      "purl": "pkg:github/mitchdowd/jnipp@v1.0.0",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "1.0.0"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-BundledOpenXR-Attribution-jsoncpp",
+      "copyright": "Copyright (c) 2007-2010 Baptiste Lepilleur and The JsonCpp Authors",
+      "cpe": "cpe:2.3:a:jsoncpp_project:jsoncpp:1.9.6:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "acknowledgement": "concluded",
+          "expression": "MIT"
+        }
+      ],
+      "name": "BundledOpenXR_Attribution_jsoncpp",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_THIRD_PARTY_SOURCES"
+        },
+        {
+          "name": "qt:sbom:is_qt_3rd_party_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:generic/TheQtCompany/qtquick3d-BundledOpenXR_Attribution_jsoncpp@527cc5b?library_name=BundledOpenXR_Attribution_jsoncpp&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/3rdparty/openxr"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=BundledOpenXR_Attribution_jsoncpp#src/3rdparty/openxr"
+        }
+      ],
+      "purl": "pkg:github/open-source-parsers/jsoncpp@1.9.6",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "1.9.6"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtbase-qt-module-Concurrent",
+      "externalReferences": [
+        {
+          "type": "bom",
+          "url": "urn:cdx:e570bb1e-2c2b-530a-ad95-58aeded88d68/1#SPDXRef-Package-qtbase-qt-module-Concurrent"
+        }
+      ],
+      "name": "Concurrent",
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtbase-qt-module-Core",
+      "externalReferences": [
+        {
+          "type": "bom",
+          "url": "urn:cdx:e570bb1e-2c2b-530a-ad95-58aeded88d68/1#SPDXRef-Package-qtbase-qt-module-Core"
+        }
+      ],
+      "name": "Core",
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtbase-qt-module-Gui",
+      "externalReferences": [
+        {
+          "type": "bom",
+          "url": "urn:cdx:e570bb1e-2c2b-530a-ad95-58aeded88d68/1#SPDXRef-Package-qtbase-qt-module-Gui"
+        }
+      ],
+      "name": "Gui",
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtbase-qt-module-PlatformCommonInternal",
+      "externalReferences": [
+        {
+          "type": "bom",
+          "url": "urn:cdx:e570bb1e-2c2b-530a-ad95-58aeded88d68/1#SPDXRef-Package-qtbase-qt-module-PlatformCommonInternal"
+        }
+      ],
+      "name": "PlatformCommonInternal",
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+      "externalReferences": [
+        {
+          "type": "bom",
+          "url": "urn:cdx:e570bb1e-2c2b-530a-ad95-58aeded88d68/1#SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal"
+        }
+      ],
+      "name": "PlatformModuleInternal",
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtbase-qt-module-PlatformPluginInternal",
+      "externalReferences": [
+        {
+          "type": "bom",
+          "url": "urn:cdx:e570bb1e-2c2b-530a-ad95-58aeded88d68/1#SPDXRef-Package-qtbase-qt-module-PlatformPluginInternal"
+        }
+      ],
+      "name": "PlatformPluginInternal",
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtbase-qt-module-PlatformToolInternal",
+      "externalReferences": [
+        {
+          "type": "bom",
+          "url": "urn:cdx:e570bb1e-2c2b-530a-ad95-58aeded88d68/1#SPDXRef-Package-qtbase-qt-module-PlatformToolInternal"
+        }
+      ],
+      "name": "PlatformToolInternal",
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-plugin-QQuick3DProfilerAdapterFactoryPlugin",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "QQuick3DProfilerAdapterFactoryPlugin",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_PLUGIN"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=QQuick3DProfilerAdapterFactoryPlugin#src/plugins/qmldbg_quick3dprofiler"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-QQuick3DProfilerAdapterFactoryPlugin@527cc5b?library_name=QQuick3DProfilerAdapterFactoryPlugin&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/plugins/qmldbg_quick3dprofiler",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+      "externalReferences": [
+        {
+          "type": "bom",
+          "url": "urn:cdx:f213e7aa-f1bb-515f-97d2-a260269418ad/1#SPDXRef-Package-qtdeclarative-qt-module-Qml"
+        }
+      ],
+      "name": "Qml",
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+      "externalReferences": [
+        {
+          "type": "bom",
+          "url": "urn:cdx:f213e7aa-f1bb-515f-97d2-a260269418ad/1#SPDXRef-Package-qtdeclarative-qt-module-Quick"
+        }
+      ],
+      "name": "Quick",
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3D",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3D",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3D#src/quick3d"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3D@527cc5b?library_name=Quick3D&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/quick3d",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetImport",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3DAssetImport",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DAssetImport#src/assetimport"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DAssetImport@527cc5b?library_name=Quick3DAssetImport&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/assetimport",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetUtils",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3DAssetUtils",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DAssetUtils#src/assetutils"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DAssetUtils@527cc5b?library_name=Quick3DAssetUtils&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/assetutils",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DEffects",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3DEffects",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DEffects#src/effects"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DEffects@527cc5b?library_name=Quick3DEffects&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/effects",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DGlslParserPrivate",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3DGlslParserPrivate",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DGlslParserPrivate#src/glslparser"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DGlslParserPrivate@527cc5b?library_name=Quick3DGlslParserPrivate&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/glslparser",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DHelpers",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3DHelpers",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DHelpers#src/helpers"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DHelpers@527cc5b?library_name=Quick3DHelpers&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/helpers",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DHelpersImpl",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3DHelpersImpl",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DHelpersImpl#src/helpers/impl"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DHelpersImpl@527cc5b?library_name=Quick3DHelpersImpl&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/helpers/impl",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DHelpers-Attribution-proceduralsky",
+      "copyright": "Copyright (c) 2007-2022 Juan Linietsky, Ariel Manzur.\nCopyright (c) 2014-2022 Godot Engine contributors",
+      "licenses": [
+        {
+          "acknowledgement": "concluded",
+          "expression": "MIT"
+        }
+      ],
+      "name": "Quick3DHelpers_Attribution_proceduralsky",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_THIRD_PARTY_SOURCES"
+        },
+        {
+          "name": "qt:sbom:is_qt_3rd_party_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DHelpers_Attribution_proceduralsky#src/helpers"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DHelpers_Attribution_proceduralsky@527cc5b?library_name=Quick3DHelpers_Attribution_proceduralsky&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/helpers",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DIblBaker",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3DIblBaker",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DIblBaker#src/iblbaker"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DIblBaker@527cc5b?library_name=Quick3DIblBaker&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/iblbaker",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DParticleEffects",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3DParticleEffects",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DParticleEffects#src/quick3dparticleeffects"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DParticleEffects@527cc5b?library_name=Quick3DParticleEffects&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/quick3dparticleeffects",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DParticles",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3DParticles",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DParticles#src/quick3dparticles"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DParticles@527cc5b?library_name=Quick3DParticles&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/quick3dparticles",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DRuntimeRender",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3DRuntimeRender",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DRuntimeRender#src/runtimerender"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DRuntimeRender@527cc5b?library_name=Quick3DRuntimeRender&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/runtimerender",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DRuntimeRender-Attribution-fog",
+      "copyright": "Copyright (c) 2007-2022 Juan Linietsky, Ariel Manzur.\nCopyright (c) 2014-2022 Godot Engine contributors",
+      "licenses": [
+        {
+          "acknowledgement": "concluded",
+          "expression": "MIT"
+        }
+      ],
+      "name": "Quick3DRuntimeRender_Attribution_fog",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_THIRD_PARTY_SOURCES"
+        },
+        {
+          "name": "qt:sbom:is_qt_3rd_party_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DRuntimeRender_Attribution_fog#src/runtimerender"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DRuntimeRender_Attribution_fog@527cc5b?library_name=Quick3DRuntimeRender_Attribution_fog&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/runtimerender",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DRuntimeRender-Attribution-tinyexr",
+      "copyright": "Copyright (c) 2014 - 2021, Syoyo Fujita and many contributors.",
+      "cpe": "cpe:2.3:a:tinyexr_project:tinyexr:1.0.12:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "acknowledgement": "concluded",
+          "expression": "BSD-3-Clause"
+        }
+      ],
+      "name": "Quick3DRuntimeRender_Attribution_tinyexr",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_THIRD_PARTY_SOURCES"
+        },
+        {
+          "name": "qt:sbom:is_qt_3rd_party_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:generic/TheQtCompany/qtquick3d-Quick3DRuntimeRender_Attribution_tinyexr@527cc5b?library_name=Quick3DRuntimeRender_Attribution_tinyexr&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/runtimerender"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DRuntimeRender_Attribution_tinyexr#src/runtimerender"
+        }
+      ],
+      "purl": "pkg:github/syoyo/tinyexr@%24v%3CVERSION%3E",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "1.0.12"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DUtils",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3DUtils",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DUtils#src/utils"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DUtils@527cc5b?library_name=Quick3DUtils&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/utils",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DUtils-Attribution-meshoptimizer",
+      "copyright": "Copyright (c) 2016-2025 Arseny Kapoulkine",
+      "licenses": [
+        {
+          "acknowledgement": "concluded",
+          "expression": "MIT"
+        }
+      ],
+      "name": "Quick3DUtils_Attribution_meshoptimizer",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_THIRD_PARTY_SOURCES"
+        },
+        {
+          "name": "qt:sbom:is_qt_3rd_party_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:generic/TheQtCompany/qtquick3d-Quick3DUtils_Attribution_meshoptimizer@527cc5b?library_name=Quick3DUtils_Attribution_meshoptimizer&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/utils"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DUtils_Attribution_meshoptimizer#src/utils"
+        }
+      ],
+      "purl": "pkg:github/zeux/meshoptimizer@v0.23",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "0.23"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DUtils-Attribution-xatlas",
+      "copyright": "Copyright (c) 2018-2020 Jonathan Young",
+      "licenses": [
+        {
+          "acknowledgement": "concluded",
+          "expression": "MIT"
+        }
+      ],
+      "name": "Quick3DUtils_Attribution_xatlas",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_THIRD_PARTY_SOURCES"
+        },
+        {
+          "name": "qt:sbom:is_qt_3rd_party_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:generic/TheQtCompany/qtquick3d-Quick3DUtils_Attribution_xatlas@527cc5b?library_name=Quick3DUtils_Attribution_xatlas&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/utils"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DUtils_Attribution_xatlas#src/utils"
+        }
+      ],
+      "purl": "pkg:github/jpcy/xatlas@16ace528acd2cf1f16a7c0dde99c42c486488dbe",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "16ace528acd2cf1f16a7c0dde99c42c486488dbe"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DXr",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3DXr",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_MODULE"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DXr#src/xr/quick3dxr"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DXr@527cc5b?library_name=Quick3DXr&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/xr/quick3dxr",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-plugin-Quick3DXrplugin",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "Quick3DXrplugin",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_PLUGIN"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=Quick3DXrplugin#src/xr/quick3dxr"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-Quick3DXrplugin@527cc5b?library_name=Quick3DXrplugin&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/xr/quick3dxr",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquicktimeline-qt-module-QuickTimeline",
+      "externalReferences": [
+        {
+          "type": "bom",
+          "url": "urn:cdx:53cbbe7a-74d2-53e4-96af-a34d6f2d27c2/1#SPDXRef-Package-qtquicktimeline-qt-module-QuickTimeline"
+        }
+      ],
+      "name": "QuickTimeline",
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtshadertools-qt-module-ShaderTools",
+      "externalReferences": [
+        {
+          "type": "bom",
+          "url": "urn:cdx:c2c0864c-ce20-5ba9-bc11-e382fcba8a40/1#SPDXRef-Package-qtshadertools-qt-module-ShaderTools"
+        }
+      ],
+      "name": "ShaderTools",
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtbase-qt-module-Widgets",
+      "externalReferences": [
+        {
+          "type": "bom",
+          "url": "urn:cdx:e570bb1e-2c2b-530a-ad95-58aeded88d68/1#SPDXRef-Package-qtbase-qt-module-Widgets"
+        }
+      ],
+      "name": "Widgets",
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-plugin-qquick3dplugin",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "qquick3dplugin",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_PLUGIN"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=qquick3dplugin#src/quick3d"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-qquick3dplugin@527cc5b?library_name=qquick3dplugin&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/quick3d",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dassetutilsplugin",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "qtquick3dassetutilsplugin",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_PLUGIN"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=qtquick3dassetutilsplugin#src/assetutils"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-qtquick3dassetutilsplugin@527cc5b?library_name=qtquick3dassetutilsplugin&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/assetutils",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3deffectplugin",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "qtquick3deffectplugin",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_PLUGIN"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=qtquick3deffectplugin#src/effects"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-qtquick3deffectplugin@527cc5b?library_name=qtquick3deffectplugin&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/effects",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dhelpersimplplugin",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "qtquick3dhelpersimplplugin",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_PLUGIN"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=qtquick3dhelpersimplplugin#src/helpers/impl"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-qtquick3dhelpersimplplugin@527cc5b?library_name=qtquick3dhelpersimplplugin&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/helpers/impl",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dhelpersplugin",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "qtquick3dhelpersplugin",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_PLUGIN"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=qtquick3dhelpersplugin#src/helpers"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-qtquick3dhelpersplugin@527cc5b?library_name=qtquick3dhelpersplugin&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/helpers",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-qtquick3dhelpersplugin-Attribution-proceduralsky",
+      "copyright": "Copyright (c) 2007-2022 Juan Linietsky, Ariel Manzur.\nCopyright (c) 2014-2022 Godot Engine contributors",
+      "licenses": [
+        {
+          "acknowledgement": "concluded",
+          "expression": "MIT"
+        }
+      ],
+      "name": "qtquick3dhelpersplugin_Attribution_proceduralsky",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_THIRD_PARTY_SOURCES"
+        },
+        {
+          "name": "qt:sbom:is_qt_3rd_party_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=qtquick3dhelpersplugin_Attribution_proceduralsky#src/helpers"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-qtquick3dhelpersplugin_Attribution_proceduralsky@527cc5b?library_name=qtquick3dhelpersplugin_Attribution_proceduralsky&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/helpers",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dparticleeffectsplugin",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "qtquick3dparticleeffectsplugin",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_PLUGIN"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=qtquick3dparticleeffectsplugin#src/quick3dparticleeffects"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-qtquick3dparticleeffectsplugin@527cc5b?library_name=qtquick3dparticleeffectsplugin&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/quick3dparticleeffects",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    },
+    {
+      "bom-ref": "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dparticles3dplugin",
+      "copyright": "Copyright (C) The Qt Company Ltd. and other contributors.",
+      "cpe": "cpe:2.3:a:qt:qt:6.10.2:*:*:*:*:*:*:*",
+      "licenses": [
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "id": "GPL-3.0-only"
+          }
+        },
+        {
+          "license": {
+            "acknowledgement": "concluded",
+            "name": "LicenseRef-Qt-Commercial",
+            "text": {
+              "content": "Licensees holding valid commercial Qt licenses may use this software in\naccordance with the the terms contained in a written agreement between\nyou and The Qt Company. Alternatively, the terms and conditions that were\naccepted by the licensee when buying and/or downloading the\nsoftware do apply.\n\nFor the latest licensing terms and conditions, see https://www.qt.io/terms-conditions.\nFor further information use the contact form at https://www.qt.io/contact-us.\n\n",
+              "contentType": "text/plain"
+            }
+          }
+        }
+      ],
+      "name": "qtquick3dparticles3dplugin",
+      "properties": [
+        {
+          "name": "qt:sbom:entity_type",
+          "value": "QT_PLUGIN"
+        },
+        {
+          "name": "qt:sbom:is_qt_entity_type",
+          "value": "true"
+        },
+        {
+          "name": "spdx:external-reference:package-manager:purl",
+          "value": "pkg:github/qt/qtquick3d@527cc5b?library_name=qtquick3dparticles3dplugin#src/quick3dparticles"
+        },
+        {
+          "name": "spdx:external-reference:security:cpe23",
+          "value": "cpe:2.3:a:qt:qtquick3d:6.10.2:*:*:*:*:*:*:*"
+        }
+      ],
+      "purl": "pkg:generic/TheQtCompany/qtquick3d-qtquick3dparticles3dplugin@527cc5b?library_name=qtquick3dparticles3dplugin&vcs_url=https://code.qt.io/qt/qtquick3d.git%40527cc5b#src/quick3dparticles",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "library",
+      "version": "6.10.2"
+    }
+  ],
+  "dependencies": [
+    {
+      "ref": "SPDXRef-Package-qtbase-qt-module-Concurrent"
+    },
+    {
+      "ref": "SPDXRef-Package-qtbase-qt-module-Core"
+    },
+    {
+      "ref": "SPDXRef-Package-qtbase-qt-module-Gui"
+    },
+    {
+      "ref": "SPDXRef-Package-qtbase-qt-module-PlatformCommonInternal"
+    },
+    {
+      "ref": "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal"
+    },
+    {
+      "ref": "SPDXRef-Package-qtbase-qt-module-PlatformPluginInternal"
+    },
+    {
+      "ref": "SPDXRef-Package-qtbase-qt-module-PlatformToolInternal"
+    },
+    {
+      "ref": "SPDXRef-Package-qtbase-qt-module-Widgets"
+    },
+    {
+      "ref": "SPDXRef-Package-qtdeclarative-qt-module-Qml"
+    },
+    {
+      "ref": "SPDXRef-Package-qtdeclarative-qt-module-Quick"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-AssimpImporterPlugin-Attribution-assimp",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-BundledOpenXR-Attribution-jnipp",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-BundledOpenXR-Attribution-jsoncpp",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DHelpers-Attribution-proceduralsky",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DRuntimeRender-Attribution-fog",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DRuntimeRender-Attribution-tinyexr",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DUtils-Attribution-meshoptimizer",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DUtils-Attribution-xatlas",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-qtquick3dhelpersplugin-Attribution-proceduralsky",
+        "SPDXRef-Package-qtquick3d-qt-bundled-3rdparty-module-BundledEmbree",
+        "SPDXRef-Package-qtquick3d-qt-bundled-3rdparty-module-BundledOpenXR",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetImport",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetUtils",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DEffects",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DGlslParserPrivate",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DHelpers",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DHelpersImpl",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DIblBaker",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DParticleEffects",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DParticles",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DRuntimeRender",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DUtils",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DXr",
+        "SPDXRef-Package-qtquick3d-qt-plugin-AssimpImporterPlugin",
+        "SPDXRef-Package-qtquick3d-qt-plugin-QQuick3DProfilerAdapterFactoryPlugin",
+        "SPDXRef-Package-qtquick3d-qt-plugin-Quick3DXrplugin",
+        "SPDXRef-Package-qtquick3d-qt-plugin-qquick3dplugin",
+        "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dassetutilsplugin",
+        "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3deffectplugin",
+        "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dhelpersimplplugin",
+        "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dhelpersplugin",
+        "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dparticleeffectsplugin",
+        "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dparticles3dplugin",
+        "SPDXRef-Package-qtquick3d-qt-tool-balsam",
+        "SPDXRef-Package-qtquick3d-qt-tool-balsamui",
+        "SPDXRef-Package-qtquick3d-qt-tool-instancer",
+        "SPDXRef-Package-qtquick3d-qt-tool-lightmapviewer",
+        "SPDXRef-Package-qtquick3d-qt-tool-materialeditor",
+        "SPDXRef-Package-qtquick3d-qt-tool-meshdebug",
+        "SPDXRef-Package-qtquick3d-qt-tool-shadergen",
+        "SPDXRef-Package-qtquick3d-qt-tool-shapegen"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d"
+    },
+    {
+      "ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-AssimpImporterPlugin-Attribution-assimp"
+    },
+    {
+      "ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-BundledOpenXR-Attribution-jnipp"
+    },
+    {
+      "ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-BundledOpenXR-Attribution-jsoncpp"
+    },
+    {
+      "ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DHelpers-Attribution-proceduralsky"
+    },
+    {
+      "ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DRuntimeRender-Attribution-fog"
+    },
+    {
+      "ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DRuntimeRender-Attribution-tinyexr"
+    },
+    {
+      "ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DUtils-Attribution-meshoptimizer"
+    },
+    {
+      "ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DUtils-Attribution-xatlas"
+    },
+    {
+      "ref": "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-qtquick3dhelpersplugin-Attribution-proceduralsky"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-bundled-3rdparty-module-BundledEmbree"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-BundledOpenXR-Attribution-jnipp",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-BundledOpenXR-Attribution-jsoncpp"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-bundled-3rdparty-module-BundledOpenXR"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DRuntimeRender"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3D"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DUtils"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetImport"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetImport",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DRuntimeRender",
+        "SPDXRef-Package-qtquicktimeline-qt-module-QuickTimeline"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetUtils"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DEffects"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DGlslParserPrivate"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Concurrent",
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DHelpers-Attribution-proceduralsky",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DHelpers"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DHelpersImpl"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DRuntimeRender"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DIblBaker"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetImport",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DParticles",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DRuntimeRender"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DParticleEffects"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetImport",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DRuntimeRender"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DParticles"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Concurrent",
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DRuntimeRender-Attribution-fog",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DRuntimeRender-Attribution-tinyexr",
+        "SPDXRef-Package-qtquick3d-qt-bundled-3rdparty-module-BundledEmbree",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DUtils",
+        "SPDXRef-Package-qtshadertools-qt-module-ShaderTools"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DRuntimeRender"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DUtils-Attribution-meshoptimizer",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-Quick3DUtils-Attribution-xatlas"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DUtils"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformModuleInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-bundled-3rdparty-module-BundledOpenXR",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-module-Quick3DXr"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformPluginInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-AssimpImporterPlugin-Attribution-assimp",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetImport",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetUtils",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DRuntimeRender",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DUtils"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-plugin-AssimpImporterPlugin"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformPluginInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DUtils"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-plugin-QQuick3DProfilerAdapterFactoryPlugin"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-PlatformPluginInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DXr"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-plugin-Quick3DXrplugin"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-PlatformPluginInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-plugin-qquick3dplugin"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-PlatformPluginInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetUtils"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dassetutilsplugin"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-PlatformPluginInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DEffects"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3deffectplugin"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-PlatformPluginInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DHelpersImpl"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dhelpersimplplugin"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-PlatformPluginInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-3rdparty-sources-qtquick3dhelpersplugin-Attribution-proceduralsky",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DHelpers"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dhelpersplugin"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-PlatformPluginInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DParticleEffects"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dparticleeffectsplugin"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-PlatformPluginInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DParticles"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-plugin-qtquick3dparticles3dplugin"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformCommonInternal",
+        "SPDXRef-Package-qtbase-qt-module-PlatformToolInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetImport",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DIblBaker"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-tool-balsam"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Concurrent",
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformCommonInternal",
+        "SPDXRef-Package-qtbase-qt-module-PlatformToolInternal",
+        "SPDXRef-Package-qtbase-qt-module-Widgets",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetImport"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-tool-balsamui"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformCommonInternal",
+        "SPDXRef-Package-qtbase-qt-module-PlatformToolInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-tool-instancer"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformCommonInternal",
+        "SPDXRef-Package-qtbase-qt-module-PlatformToolInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetImport",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DRuntimeRender"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-tool-lightmapviewer"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformCommonInternal",
+        "SPDXRef-Package-qtbase-qt-module-PlatformToolInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtdeclarative-qt-module-Quick",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetUtils",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DRuntimeRender",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DUtils"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-tool-materialeditor"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformCommonInternal",
+        "SPDXRef-Package-qtbase-qt-module-PlatformToolInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DAssetImport"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-tool-meshdebug"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformCommonInternal",
+        "SPDXRef-Package-qtbase-qt-module-PlatformToolInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DRuntimeRender",
+        "SPDXRef-Package-qtshadertools-qt-module-ShaderTools"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-tool-shadergen"
+    },
+    {
+      "dependsOn": [
+        "SPDXRef-Package-qtbase-qt-module-Core",
+        "SPDXRef-Package-qtbase-qt-module-Gui",
+        "SPDXRef-Package-qtbase-qt-module-PlatformCommonInternal",
+        "SPDXRef-Package-qtbase-qt-module-PlatformToolInternal",
+        "SPDXRef-Package-qtdeclarative-qt-module-Qml",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3D",
+        "SPDXRef-Package-qtquick3d-qt-module-Quick3DParticles"
+      ],
+      "ref": "SPDXRef-Package-qtquick3d-qt-tool-shapegen"
+    },
+    {
+      "ref": "SPDXRef-Package-qtquicktimeline-qt-module-QuickTimeline"
+    },
+    {
+      "ref": "SPDXRef-Package-qtshadertools-qt-module-ShaderTools"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      {
+        "name": "TheQtCompany"
+      }
+    ],
+    "component": {
+      "bom-ref": "SPDXRef-Package-qtquick3d",
+      "description": "Built by CMake 3.30.5 with RelWithDebInfo;Debug configuration for Windows (AMD64)\nqtquick3d was configured with:\n    qt-configure-module <sources>/qtquick3d -- -DFFMPEG_DIR=C:\\FFmpeg-n7.1.2\\build\\msvc\\installed -DQT_DEPLOY_FFMPEG=TRUE -DFEATURE_clangcpp=OFF -DINPUT_headersclean=ON -DQT_INSTALL_CONFIG_INFO_FILES=ON -DQT_GENERATE_SBOM=ON -DQT_GENERATE_SOURCE_SBOM=ON -DQT_SBOM_REQUIRE_GENERATE_CYDX_V1_6=ON -DQT_SBOM_VERIFY_CYDX_V1_6=ON -DQT_SBOM_PYTHON_INTERP=C:\\Python38_64 -DQT_SBOM_PYTHON_APPS_PATH=C:\\Python310_64\\Scripts -DQT_LINT_SOURCE_SBOM=ON -DQT_INTERNAL_SBOM_DEFAULT_CHECKS=ON -DQT_INTERNAL_SBOM_AUDIT=ON -DQT_INTERNAL_SBOM_AUDIT_NO_ERROR=ON -DQT_BUILD_TESTS=OFF -DCMAKE_AUTOGEN_VERBOSE=ON -DCMAKE_MESSAGE_LOG_LEVEL=STATUS -DCMAKE_C_COMPILER_LAUNCHER=sccache -DCMAKE_CXX_COMPILER_LAUNCHER=sccache\n\n",
+      "externalReferences": [
+        {
+          "type": "distribution",
+          "url": "git://code.qt.io/qt/qtquick3d.git@527cc5bb2fbb16d9b7abaea39f16d0ca90ccc789"
+        }
+      ],
+      "manufacturer": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "name": "qtquick3d",
+      "supplier": {
+        "name": "TheQtCompany",
+        "url": [
+          "https://qt.io"
+        ]
+      },
+      "type": "framework",
+      "version": "527cc5b+HEAD"
+    },
+    "lifecycles": [
+      {
+        "phase": "build"
+      }
+    ],
+    "manufacturer": {
+      "name": "TheQtCompany",
+      "url": [
+        "https://qt.io"
+      ]
+    },
+    "supplier": {
+      "name": "TheQtCompany",
+      "url": [
+        "https://qt.io"
+      ]
+    },
+    "timestamp": "2026-01-22T21:07:39+00:00",
+    "tools": {
+      "components": [
+        {
+          "description": "Build system tool used to build the project.",
+          "name": "cmake",
+          "type": "application",
+          "version": "3.30.5"
+        }
+      ]
+    }
+  },
+  "serialNumber": "urn:uuid:957d7881-5931-5533-9408-24665b04ce36",
+  "version": 1,
+  "$schema": "http://cyclonedx.org/schema/bom-1.6.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6"
+}
